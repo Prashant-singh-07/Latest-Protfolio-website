@@ -29,7 +29,7 @@ const Home = () => {
               Checkout Projects
             </NavLink>
             <NavLink
-              to="https://drive.google.com/file/d/15YKUfJKj33j1frhZF_w9wPXRF_wy4cl3/view"
+              to="https://drive.google.com/file/d/1mWiBxSeL8xhTedESX-mM_5HiO8h5qtFK/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="Home_LinksSection__RqlaT a-dost"

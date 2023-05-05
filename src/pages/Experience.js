@@ -139,7 +139,7 @@ const Experience = () => {
         </div>
         <div>
           <div className="Card_Card__1Tc-D Projects_eachProject__HaSwA Experience_eachExperience__n8Du+">
-            <h2>Subject Matter Exper</h2>
+            <h2>Subject Matter Expert</h2>
             <p>NOV 2021 - July 2022</p>Chegg Inc.
           </div>
         </div>
